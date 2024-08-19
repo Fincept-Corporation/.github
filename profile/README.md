@@ -1,6 +1,7 @@
 [<img src="https://github.com/Fincept-Corporation/.github/blob/df0fa06ba654dac53907f896d10e51453f689ca2/profile/finceptbanner.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 ## Welcome To Fincept Corporation 👋
+At Fincept We are focused on Making Finance Easy For Everyone, Gone are the days when the hassles of managing finance consumed hours of your time, leaving you overwhelmed and stressed. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
