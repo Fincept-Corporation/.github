@@ -1,5 +1,6 @@
-[<img src="[https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif](https://github.com/Fincept-Corporation/.github/blob/main/profile/finceptbanner.gif)" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://github.com/Fincept-Corporation/.github/blob/df0fa06ba654dac53907f896d10e51453f689ca2/profile/finceptbanner.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
+https://github.com/Fincept-Corporation/.github/blob/df0fa06ba654dac53907f896d10e51453f689ca2/profile/finceptbanner.gif
 ## Hi there 👋
 
 <!--
